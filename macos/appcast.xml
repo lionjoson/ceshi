@@ -5,6 +5,22 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <title>float for macOS</title>
     <language>en</language>
     <item>
+      <title>float 0.6.6</title>
+      <sparkle:version>20261119175829</sparkle:version>
+      <sparkle:shortVersionString>0.6.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+      <pubDate>Thu, 19 Nov 2026 17:59:59 +0000</pubDate>
+      <description format="plain-text">float 0.6.6
+
+• 同步软件更新与词库下载地址，继续接收后续更新。
+• 保留模型、已下载词库和个人设置。
+
+• Updated app and dictionary download locations so future updates continue to work.
+• Existing models, downloaded dictionaries and preferences are preserved.</description>
+      <enclosure url="https://raw.githubusercontent.com/lionjoson/ceshi/float-updates/macos/float-0.6.6-macos-arm64.zip" length="4369383" type="application/octet-stream" sparkle:edSignature="lDf/5FJmvpkwMU5loOQfx4V1IznxrBvT4/R+pBRoH4clhMYjLsEDK5WyxgcY5ERQj0ZnbU2F9SwJWyi42EZxCw=="></enclosure>
+    </item>
+    <item>
       <title>float 0.6.5</title>
       <sparkle:version>202611200132</sparkle:version>
       <sparkle:shortVersionString>0.6.5</sparkle:shortVersionString>
@@ -24,10 +40,10 @@ Software updates
 • Automatic update checks can be turned off in Settings → Updates. Installation remains your choice.
 • Signed update packages and feeds. Existing models, dictionaries and preferences are preserved.
 • The update source is configured for you.</description>
-      <enclosure url="https://raw.githubusercontent.com/1379074387-hue/ceshi/float-updates/macos/float-0.6.5-macos-arm64.zip" length="4369395" type="application/octet-stream" sparkle:edSignature="oItiScmKwYhKFBmFmEWj5cJ86HKXymnwLNyMMhy0I9ItfhJZw26a/ChUb8QVDM5+w2nKU5tskHrc3ZlsTL5zBQ=="></enclosure>
+      <enclosure url="https://raw.githubusercontent.com/lionjoson/ceshi/float-updates/macos/float-0.6.5-macos-arm64.zip" length="4369395" type="application/octet-stream" sparkle:edSignature="oItiScmKwYhKFBmFmEWj5cJ86HKXymnwLNyMMhy0I9ItfhJZw26a/ChUb8QVDM5+w2nKU5tskHrc3ZlsTL5zBQ=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: EQaTt1FMRj+LRRVtxadClBOTVb1JzR8gwrrVou0qAPKK7zNYDRxZ0A27ynsFEa9VFOmlKfZ22/VWmQxDVJa/Aw==
-length: 1847
+edSignature: 6vqZgehynxFMAnMqpq60L0e8Jt65pZa/VwvDi5FDtQSer7d12F69uG0dFHNh5lt8ZD3Ukmt1adEz8TIxqCJfDg==
+length: 2875
 -->
