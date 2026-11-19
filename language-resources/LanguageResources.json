@@ -1,0 +1,277 @@
+[
+  {
+    "code": "ar",
+    "file": "language-ar.sqlite.gz",
+    "bytes": 10042334,
+    "indexBytes": 51470336,
+    "unpackedBytes": 23093248,
+    "sha512": "75a04e486f87507a7dba1d85b16a03686b4a744656d364cdb5c8f48a2097d068085b7c4a3f89281ab20be183e55aa2de3f020e2f3c1424ee93beaed0b24b5372",
+    "senses": 28642,
+    "version": "2026-10-01-target-v2",
+    "parts": []
+  },
+  {
+    "code": "pl",
+    "file": "language-pl.sqlite.gz",
+    "bytes": 20188092,
+    "indexBytes": 105857024,
+    "unpackedBytes": 48279552,
+    "sha512": "bc776101f9319c12675a0b4472e2aec8a6af93c1bd76bd6942886497a85f9fe93db35473c626ca58e31c2bef2b37026c02192fa7e5202c162f9c21a00722ada9",
+    "senses": 91528,
+    "version": "2026-10-01-target-v2",
+    "parts": [
+      {
+        "file": "language-pl.sqlite.gz.part00",
+        "bytes": 20000000,
+        "sha512": "615753bbc11f0e7aba124d42a14cf9f29df3f2f4d50c2fcf448bddb3da4ccc6e6b196c4a3af219380b1318f78c7d1286647c12be0057dbbe3ca7ae735ab700d3"
+      },
+      {
+        "file": "language-pl.sqlite.gz.part01",
+        "bytes": 188092,
+        "sha512": "9dc249a4ecdeb3713a0dd4889af346dc40b6c15c12a9491458e756a05eee4edd9547d2a75221c305ad4b05a3d88965bc5f901d11c0fa7ead4421fb18d8a0ac8c"
+      }
+    ]
+  },
+  {
+    "code": "de",
+    "file": "language-de.sqlite.gz",
+    "bytes": 21872493,
+    "indexBytes": 115163136,
+    "unpackedBytes": 52326400,
+    "sha512": "fed4f1b68f4c81b59ff186135193e99f129999c7855401e99c9d1a48976163a1cfd463c0838faf739be187bdacd44e04d9e3f87952c2c7bc1a325fcc98241dbf",
+    "senses": 95967,
+    "version": "2026-10-01-target-v2",
+    "parts": [
+      {
+        "file": "language-de.sqlite.gz.part00",
+        "bytes": 20000000,
+        "sha512": "53c12096c28ba4bfd8c5086e932b80f957f5594a28738f3a26c6ae1ca74c8e4594b167d4da5cb107f9587017a0585ebf73a8248df26ba8064b3b9a94ca48f66a"
+      },
+      {
+        "file": "language-de.sqlite.gz.part01",
+        "bytes": 1872493,
+        "sha512": "ac1eb5078accb5487716ba7976ca4398af12759b316543ee37243943e750acfec1042fd0fbc6bc528b03131db49c8182b903bc9decaf58e99e15d78f3d68a4fb"
+      }
+    ]
+  },
+  {
+    "code": "ru",
+    "file": "language-ru.sqlite.gz",
+    "bytes": 21936948,
+    "indexBytes": 112680960,
+    "unpackedBytes": 52858880,
+    "sha512": "e37dea6de4716429ef21ca20c5e8a0acfbc4bcdece50e025d24dd70cc2040b703d7ce1495273e0ca3cff68784f1f0f256a4df5e8d0730d94d0c5a1aa41a1c93c",
+    "senses": 86108,
+    "version": "2026-10-01-target-v2",
+    "parts": [
+      {
+        "file": "language-ru.sqlite.gz.part00",
+        "bytes": 20000000,
+        "sha512": "5fbbfffa0f6470623ae96a8e6f25acdabf60de419f2f449d8155780e48370d5127c0d9b44f61e6d60ddfe56fc215becfcc61bd2fa65abe851aa893b30ef71746"
+      },
+      {
+        "file": "language-ru.sqlite.gz.part01",
+        "bytes": 1936948,
+        "sha512": "0a0fd08cdb6e4b81dc862e6ae2277afa1bba4194da04946640be2d3a584f01fc908d7753f84acb43bab2a26a513692af476eb9b8e79811bc976a507946d7df06"
+      }
+    ]
+  },
+  {
+    "code": "fr",
+    "file": "language-fr.sqlite.gz",
+    "bytes": 21422270,
+    "indexBytes": 112881664,
+    "unpackedBytes": 51073024,
+    "sha512": "1fd917c31ce26ac05a4152fdfd0133f01cf3ac75d85f2ccefe9c63f064147eaa6d9506275dfc08a703c19ab5e04f9342e348d65222036aa46ae6b4f597734423",
+    "senses": 96385,
+    "version": "2026-10-01-target-v2",
+    "parts": [
+      {
+        "file": "language-fr.sqlite.gz.part00",
+        "bytes": 20000000,
+        "sha512": "0d087e52d758542977d0f8cd55a9b4733ba4dc5b69afe4d806eff6e7886639510583735edc461460d2c8eefc61d7aa7fb6016bec9991f1e14d844bb35e5bb5f3"
+      },
+      {
+        "file": "language-fr.sqlite.gz.part01",
+        "bytes": 1422270,
+        "sha512": "f1da8410def0bdbdbe9da1b8d86e3335de8b232b81684a610be23830d935380886415c3d5a19d4bc20754f008204884c9d12f77f97722a150a19c0ade2faadae"
+      }
+    ]
+  },
+  {
+    "code": "zh",
+    "file": "language-zh.sqlite.gz",
+    "bytes": 17080288,
+    "indexBytes": 87375872,
+    "unpackedBytes": 40030208,
+    "sha512": "b74f2bed0909e9d0cd589c27e5c8fe8ab04f708e585e51ed71c8a94703b4d6fc361696b241da70c8b198c39e684cd0dad5fbd9b1d5b7dec0353d97e746576af5",
+    "senses": 63313,
+    "version": "2026-10-01-target-v2",
+    "parts": []
+  },
+  {
+    "code": "ko",
+    "file": "language-ko.sqlite.gz",
+    "bytes": 10620407,
+    "indexBytes": 54628352,
+    "unpackedBytes": 24166400,
+    "sha512": "c8b00c4f5b564048711682854bdbd1cec2eeadb13b66622925cf6c7d35927ad400a753f73a845e8d31cd68fcb37b81264ba14b07fca478cd2a23dc477d5a0f83",
+    "senses": 31993,
+    "version": "2026-10-01-target-v2",
+    "parts": []
+  },
+  {
+    "code": "nl",
+    "file": "language-nl.sqlite.gz",
+    "bytes": 15427523,
+    "indexBytes": 82137088,
+    "unpackedBytes": 36532224,
+    "sha512": "5d167eef8ec9a9ab24e026e0f9b6659646307625d2c80679210afe54d74d35504c8d80dc4bce12d6cd870a169e0df0b6a0a8af9194d50df0a270f1314842e12b",
+    "senses": 57658,
+    "version": "2026-10-01-target-v2",
+    "parts": []
+  },
+  {
+    "code": "pt",
+    "file": "language-pt.sqlite.gz",
+    "bytes": 18429156,
+    "indexBytes": 98414592,
+    "unpackedBytes": 44138496,
+    "sha512": "09cf175f0c2f598ff91d6898d4d9ab65f8ad225dd92405f1970301b7009ae3624300b2fc6c3d6eab4d59484aeefe02ccdfff125901d91d2f225e686074e5ead4",
+    "senses": 76036,
+    "version": "2026-10-01-target-v2",
+    "parts": []
+  },
+  {
+    "code": "ja",
+    "file": "language-ja.sqlite.gz",
+    "bytes": 14370039,
+    "indexBytes": 74010624,
+    "unpackedBytes": 33034240,
+    "sha512": "b33a62a10f1953693e04996ce47d340e06fd75d5e26a57877e50a6913dacfde3785680ed14243f2a2ad29ee479f3fe90b981678a9e638c447fff1894261d7769",
+    "senses": 48266,
+    "version": "2026-10-01-target-v2",
+    "parts": []
+  },
+  {
+    "code": "th",
+    "file": "language-th.sqlite.gz",
+    "bytes": 6327447,
+    "indexBytes": 33001472,
+    "unpackedBytes": 14639104,
+    "sha512": "1f82ecfa11f7040979e9d1319025bdd2139303bf2e92138366766613ac4387fadfd2dd40a3ab4f9cd90aa7d9489eb0cad739722f68b7961d17f707719a2f91e5",
+    "senses": 16356,
+    "version": "2026-10-01-target-v2",
+    "parts": []
+  },
+  {
+    "code": "tr",
+    "file": "language-tr.sqlite.gz",
+    "bytes": 10848749,
+    "indexBytes": 57282560,
+    "unpackedBytes": 25128960,
+    "sha512": "0498c6cee12bc82889f199138b68b33f513db6fee6b97f9e237c458ca5f6adc3187db030b722bf389e129d2928f91d44200b5610861313d5c4f3013812734b51",
+    "senses": 35247,
+    "version": "2026-10-01-target-v2",
+    "parts": []
+  },
+  {
+    "code": "uk",
+    "file": "language-uk.sqlite.gz",
+    "bytes": 11035247,
+    "indexBytes": 57421824,
+    "unpackedBytes": 26116096,
+    "sha512": "4290cbc3662c300efa232ba03f47a0290eecac6ca35df442fe72e0aed491b8eafa60d4dccba79aada0aa6ae64ddfeca43ccb287319556879f49963b50d8ccfcb",
+    "senses": 34235,
+    "version": "2026-10-01-target-v2",
+    "parts": []
+  },
+  {
+    "code": "es",
+    "file": "language-es.sqlite.gz",
+    "bytes": 20304509,
+    "indexBytes": 107544576,
+    "unpackedBytes": 48701440,
+    "sha512": "5f704e9349191c3d5f3f2910db37620c7900cd757a3ef8155e0285fffa18bcbe86916effe0b56634f0faa95df6efb3a32496b2a3f488334a30d148f09e34af80",
+    "senses": 87144,
+    "version": "2026-10-01-target-v2",
+    "parts": [
+      {
+        "file": "language-es.sqlite.gz.part00",
+        "bytes": 20000000,
+        "sha512": "629dabef7cd06669da97b4147cf2e9702b94305dc668fa1c13a43d7b9826a86f5527b740773fe5f12a749974a90ddc16c545a4fc7818fbe07f3ddd639bc7f7d2"
+      },
+      {
+        "file": "language-es.sqlite.gz.part01",
+        "bytes": 304509,
+        "sha512": "ff5545c1732cbac33ebc477e7bdbbaef048360ac58d48ba6327723a6fe58aa251c922bd588a47c97a660965088475b2a5fc44ba94462f6d0bbf413299ab1efa2"
+      }
+    ]
+  },
+  {
+    "code": "it",
+    "file": "language-it.sqlite.gz",
+    "bytes": 16937132,
+    "indexBytes": 89657344,
+    "unpackedBytes": 40210432,
+    "sha512": "d4a957b99b5817cd1fa31446d14044b3c69d7a8d21969fb2e6352f0bf3038d4d40a05746585bcc2ed6b2dfcb4f93fad1c5a925ccd9a9adb7080b781cbb9ea8dc",
+    "senses": 69497,
+    "version": "2026-10-01-target-v2",
+    "parts": []
+  },
+  {
+    "code": "hi",
+    "file": "language-hi.sqlite.gz",
+    "bytes": 7815216,
+    "indexBytes": 41054208,
+    "unpackedBytes": 18571264,
+    "sha512": "8af4284d1528fa29068f3024861845b53689e3006e06ecc8e424436ad39fb2e85c2626b6a5965aa54ba4e6389224050fa01f6a8d2627a7bc124655de383ab17c",
+    "senses": 24175,
+    "version": "2026-10-01-target-v2",
+    "parts": []
+  },
+  {
+    "code": "id",
+    "file": "language-id.sqlite.gz",
+    "bytes": 6546573,
+    "indexBytes": 34013184,
+    "unpackedBytes": 14864384,
+    "sha512": "5e980c1d6574e331697e7d52d6f22152d42117879c87b44e260bc6d2653cd10a5019f6820de81498b7f5bb7dc001cf0104f525a94efe76a1d3fc2fd326c1d487",
+    "senses": 19324,
+    "version": "2026-10-01-target-v2",
+    "parts": []
+  },
+  {
+    "code": "en",
+    "file": "language-en.sqlite.gz",
+    "bytes": 31575475,
+    "indexBytes": 165609472,
+    "unpackedBytes": 79790080,
+    "sha512": "548f83ae161c72e9b3f152ea3028a93a6ad48c93bb4c55bcba19ad133e6f824459908701972dedbc63612b49406c45d1ec7ee160f4e639fd4a5a5c02d5b2219b",
+    "senses": 190786,
+    "version": "2026-10-01-target-v2",
+    "parts": [
+      {
+        "file": "language-en.sqlite.gz.part00",
+        "bytes": 20000000,
+        "sha512": "a78057e0ac49c798b8a6ce8c2cadc5670033830c9261999d90ceceb2a2a06996bcd7261506599afd5e2c51b2b6be6e4076540d7d95cb2809a5931006985b0e01"
+      },
+      {
+        "file": "language-en.sqlite.gz.part01",
+        "bytes": 11575475,
+        "sha512": "f98aa566dfbca5b676ce0b10f3d75bb092d2f94189b4ef008604c426164cda10a9b52b2fb115312227069d691129590cc0f349f0a2bf5d324eced99341513db1"
+      }
+    ]
+  },
+  {
+    "code": "vi",
+    "file": "language-vi.sqlite.gz",
+    "bytes": 7359246,
+    "indexBytes": 38576128,
+    "unpackedBytes": 16863232,
+    "sha512": "c8c0b336e9fccbad5dcc34053ddf6cb5db587b7168fc7d2fd23fc453936d0981945ad5e76c858d8ba72105d4a687060ee34127a46882ce419c47b72b8cd38e5a",
+    "senses": 20477,
+    "version": "2026-10-01-target-v2",
+    "parts": []
+  }
+]

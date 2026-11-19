@@ -1,0 +1,10 @@
+float multilingual dictionary supplement
+Source: English Wiktionary contributors, extracted by Kaikki / Wiktextract / Tatu Ylonen.
+Snapshot: 2026-10-30, English Wiktionary dump dated 2026-10-01.
+Bulk source: https://kaikki.org/dictionary/English/kaikki.org-dictionary-English.jsonl
+Project: https://kaikki.org/dictionary/English/
+Contributor histories: https://en.wiktionary.org/wiki/<word>?action=history
+License: Creative Commons Attribution-ShareAlike 4.0 International. Full text: ../DictionaryLicenses/CC-BY-SA-4.0.txt.
+Changes: selects 19 language codes (Chinese has Simplified and Traditional UI options); groups translations only within the same English entry, part of speech and explicit sense label; excludes translations without a named sense and some obsolete/rare/dialect forms; retains English word-form aliases; splits Chinese script alternatives, unifies zh/cmn Chinese codes, and recovers explicitly written Hanzi/Hanzi terms from otherwise missing-word translation notes. Lookup normalizes Russian/Ukrainian stress marks, Arabic vowel marks, French ligatures and Turkish case; Chinese target forms are converted using Foundation. No example quotations, audio, etymologies, or personal data are included.
+English/native results use existing direct translations or their reversed mappings. Native/native results are sense-linked suggestions, explicitly labelled in the app, not newly verified direct bilingual entries. No cross-headword chaining or inferred multi-hop paths are used. Coverage and precision vary by language and sense. There is no claim of complete global-language coverage or guaranteed accuracy.
+The readable SQLite database and build-multilingual.py retain CC BY-SA 4.0 for dictionary data and adaptations. float claims no exclusive rights over this data. The proprietary terms of the app do not restrict rights granted by this data license.
