@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "product": "float",
+  "platforms": {
+    "windows": {
+      "available": false
+    },
+    "macos": {
+      "available": true,
+      "channel": "stable",
+      "updater": "sparkle",
+      "appcastURL": "https://raw.githubusercontent.com/1379074387-hue/ceshi/float-updates/macos/appcast.xml",
+      "publicKey": "xhzWDXeFoYrEENsjhXTwh/Ha1Fn0FHACKg2kanaALkQ=",
+      "version": "0.6.5",
+      "build": "202611200132",
+      "platform": "macos",
+      "architecture": "arm64",
+      "minimumSystemVersion": "15.0",
+      "downloadURL": "https://raw.githubusercontent.com/1379074387-hue/ceshi/float-updates/macos/float-0.6.5-macos-arm64.zip",
+      "releaseNotes": "float 0.6.5\n\n软件更新\n• 加入应用内下载、安装与重启更新。\n• 自动检查更新可在“设置 → 更新”关闭；安装由你确认。\n• 更新包与更新说明经过签名校验，模型、词库和个人设置保留。\n• 修复更新入口需要用户填写地址的问题。\n\nSoftware updates\n• Download, install and restart to update from inside the app.\n• Automatic update checks can be turned off in Settings → Updates. Installation remains your choice.\n• Signed update packages and feeds. Existing models, dictionaries and preferences are preserved.\n• The update source is configured for you.",
+      "bytes": 4369395,
+      "sha256": "6a62c8c0895f0442fb8ee0d61206f5271f0d2e88114bb0d12331af56e58ff2c5",
+      "edSignature": "oItiScmKwYhKFBmFmEWj5cJ86HKXymnwLNyMMhy0I9ItfhJZw26a/ChUb8QVDM5+w2nKU5tskHrc3ZlsTL5zBQ=="
+    }
+  }
+}
