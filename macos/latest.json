@@ -1,12 +1,12 @@
 {
-  "version": "0.6.6",
-  "build": "20261119175829",
+  "version": "0.6.7",
+  "build": "20261119181437",
   "platform": "macos",
   "architecture": "arm64",
   "minimumSystemVersion": "15.0",
-  "downloadURL": "https://raw.githubusercontent.com/lionjoson/ceshi/float-updates/macos/float-0.6.6-macos-arm64.zip",
-  "releaseNotes": "float 0.6.6\n\n• 同步软件更新与词库下载地址，继续接收后续更新。\n• 保留模型、已下载词库和个人设置。\n\n• Updated app and dictionary download locations so future updates continue to work.\n• Existing models, downloaded dictionaries and preferences are preserved.",
-  "bytes": 4369383,
-  "sha256": "492e27cef7062b843b641896c0f66a93b0a52463ff2a869a7d5f5f1a0e349d82",
-  "edSignature": "lDf/5FJmvpkwMU5loOQfx4V1IznxrBvT4/R+pBRoH4clhMYjLsEDK5WyxgcY5ERQj0ZnbU2F9SwJWyi42EZxCw=="
+  "downloadURL": "https://raw.githubusercontent.com/lionjoson/ceshi/float-updates/macos/float-0.6.7-macos-arm64.zip",
+  "releaseNotes": "float 0.6.7\n\n• 修复更新重启后可能出现两个 Dock 图标的问题。\n• 重复打开时回到现有窗口，避免再次创建字幕窗口、加载模型或启动录音任务。\n• 保留已有设置与下载资源。\n\n• Fixed duplicate Dock icons after an update restart.\n• Opening float again returns to the existing window without starting a second caption, model or audio session.\n• Existing preferences and downloaded resources are preserved.",
+  "bytes": 4373392,
+  "sha256": "4298abf4f46cc28c7065438bdc4aa66de6e39527bfd09e932105859afe8306e0",
+  "edSignature": "A1qYxQA2M9BYZytAxXSNpqxLQ2mNGsYe+5q8zuyzP1cEuc+LhuwiIXcsxVXx17dhevxqjqumfstU6K+OZf27AA=="
 }

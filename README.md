@@ -4,7 +4,7 @@ Signed software updates for float. This branch hosts release artifacts only.
 
 ## Downloads
 
-- [float 0.6.6 for macOS / Apple Silicon](https://raw.githubusercontent.com/lionjoson/ceshi/float-updates/macos/float-0.6.6-macos-arm64.zip) — macOS 15 or newer.
+- [float 0.6.7 for macOS / Apple Silicon](https://raw.githubusercontent.com/lionjoson/ceshi/float-updates/macos/float-0.6.7-macos-arm64.zip) — macOS 15 or newer.
 - Windows: no Windows build is published yet. Do not use the Mac archive on Windows.
 
 Mac users can check for updates inside **Settings → Updates**. Automatic checks can be switched off; installation is confirmed by the user. Users on 0.6.4 or earlier need to install this update-enabled version once.
